@@ -13,6 +13,7 @@ import br.edu.iff.pooa20181.aulagps.R;
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemClickListener{
 
     private String[] activities = {"LocalizaActivity",
+            "MapsActivity",
             "UltimaLocalizacaoActivity",
             "UltimaLocalizacao2Activity"
     };
